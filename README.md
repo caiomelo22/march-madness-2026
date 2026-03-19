@@ -75,6 +75,14 @@ kaggle/
     submission.csv       # Output: win probability for every possible matchup pair
 ```
 
+## Kaggle Notebook
+
+The notebook is also published on Kaggle: [March Madness 2026](https://www.kaggle.com/code/caiomelo22/march-madness-2026)
+
+> **Note:** This link will not be publicly accessible until the competition ends.
+
+---
+
 ## Running Locally
 
 1. Install dependencies: `pandas`, `scikit-learn`, `matplotlib`, `tqdm`
